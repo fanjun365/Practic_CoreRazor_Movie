@@ -1,0 +1,12 @@
+﻿1、本地SqlServer数据库
+	LOCALDB - 打开CMD运行命令
+	   sqllocaldb.exe i  // 查看已经有的localdb的实例
+	   sqllocaldb.exe v // 电脑上安装的localdb的所有版本
+	   sqllocaldb.exe s [实例名] // 启动这个实例
+	   sqllocaldb.exe -? // 这个命令的帮助信息 
+
+	   sqllocaldb.exe s MSSQLLocalDB
+	   sqllocaldb.exe p MSSQLLocalDB
+
+	视图 - SQL Server 资源管理器
+
